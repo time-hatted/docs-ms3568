@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-rbkowt.trans88.biz/sitemap.xml
